@@ -1,8 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "product_list": [
+    { "id": 1, "name": "普惠工薪贷","colateral":4 ,"term":2,"amount":5},
+    { "id": 2, "name": "普惠保单贷","colateral":3 ,"term":2,"amount":10},
+    { "id": 3, "name": "普惠车主贷","colateral":2 ,"term":3,"amount":30},
+    { "id": 4, "name": "普惠房主贷","colateral":1 ,"term":4,"amount":100},
+    { "id": 5, "name": "轻松信用贷","colateral":5 ,"term":1,"amount":3},
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
