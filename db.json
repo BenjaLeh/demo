@@ -1,5 +1,5 @@
 {
-  "product_list": [
+  "product": [
     { "id": 1, "name": "普惠工薪贷","colateral":4 ,"term":2,"amount":5},
     { "id": 2, "name": "普惠保单贷","colateral":3 ,"term":2,"amount":10},
     { "id": 3, "name": "普惠车主贷","colateral":2 ,"term":3,"amount":30},
